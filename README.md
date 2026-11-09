@@ -33,7 +33,6 @@ Recent Software Engineering graduate from **CETI** (Guadalajara, México) specia
 ### 📌 Featured Projects
 
 * 🤖 **[LitterBoxx – IoT & Cloud ML System](https://github.com/Klsie/LitterBoxx):** End-to-end IoT architecture using an ESP32 microcontroller, a Decision Tree classifier (`Scikit-Learn`, `Pandas`, `Joblib`) served via a `Flask` REST API on **Azure App Service** + **Azure SQL**, and a real-time Android dashboard in **Jetpack Compose**.
-* ⚡ **SmartGrid Demand Forecaster & Anomaly Detector:** Time-series regression (`XGBoost`) and unsupervised anomaly detection (`Isolation Forest`) exposed via **FastAPI** and containerized with **Docker**.
 * 🧠 **[MindNotes (PWA & Mobile App)](https://github.com/Moy446/Mind-Notes):** Full-stack platform connecting psychologists and patients with encrypted record management, real-time messaging (`Node.js`, `Express`, `MongoDB`, `React Native`), and automated CI/CD on **Microsoft Azure**.
 
 ---
